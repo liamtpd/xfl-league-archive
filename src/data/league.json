@@ -1,0 +1,158 @@
+{
+    "leagueName": "XFL",
+    "managers": [
+      { "id": "m1", "name": "J. Carella" },
+      { "id": "m2", "name": "L. Doherty" },
+      { "id": "m3", "name": "A. Elliott" },
+      { "id": "m4", "name": "E. Jbeili"},
+      { "id": "m5", "name": "A. Khouri"},
+      { "id": "m6", "name": "A. Mahdessian"},
+      { "id": "m7", "name": "B. Marji"},
+      { "id": "m8", "name": "K. McKinnon"},
+      { "id": "m9", "name": "J. Ortiz"},
+      { "id": "m10", "name": "M. Pereira"},
+      { "id": "m11", "name": "M. Perrin"}
+    ],
+    "seasons": [
+      {
+        "year": 2018,
+        "notes": "",
+        "championManagerId": "m8",
+        "runnerUpManagerId": "",
+        "thirdplaceManagerId": "",
+        "bellaManagerId": "m3",
+        "records": [
+            { "managerId": "m1", "teamName": "The Clay Matthews Band", "wins": 6, "losses": 7, "ties": 0, "pointsFor": 1333.3, "pointsAgainst": 1378.94, "playoffApp": true },
+            { "managerId": "m2", "teamName": "Collusion Collective", "wins": 9, "losses": 4, "ties": 0, "pointsFor": 1410.06, "pointsAgainst": 1345.46, "playoffApp": true },
+            { "managerId": "m3", "teamName": "YOU THINK THIS IS GAME JACK?", "wins": 3, "losses": 10, "ties": 0, "pointsFor": 1161.08, "pointsAgainst": 1324.54, "playoffApp": false },
+            { "managerId": "m4", "teamName": "One For Mahomes", "wins": 6, "losses": 7, "ties": 0, "pointsFor": 1248.76, "pointsAgainst": 1321.04, "playoffApp": false },
+            { "managerId": "m5", "teamName": "Sony Aint White", "wins": 7, "losses": 6, "ties": 0, "pointsFor": 1489, "pointsAgainst": 1351.02, "playoffApp": true },
+            { "managerId": "m6", "teamName": "Two and a Half Freeman", "wins": 7, "losses": 6, "ties": 0, "pointsFor": 1219.26, "pointsAgainst": 1213.16, "playoffApp": true },
+            { "managerId": "m7", "teamName": "Team Marji", "wins": 6, "losses": 7, "ties": 0, "pointsFor": 1339.48, "pointsAgainst": 1406.28, "playoffApp": true },
+            { "managerId": "m8", "teamName": "Team McKinnon", "wins": 6, "losses": 7, "ties": 0, "pointsFor": 1280.96, "pointsAgainst": 1353.74, "playoffApp": true },
+            { "managerId": "m9", "teamName": "Sir DeAndre Hopkins", "wins": 9, "losses": 4, "ties": 0, "pointsFor": 1440.36, "pointsAgainst": 1263.5, "playoffApp": true },
+            { "managerId": "m10", "teamName": "Saquon My Balls", "wins": 7, "losses": 6, "ties": 0, "pointsFor": 1316.12, "pointsAgainst": 1280.7, "playoffApp": true }
+        ]
+      },
+      {
+        "year": 2019,
+        "notes": "",
+        "championManagerId": "m4",
+        "runnerUpManagerId": "",
+        "thirdplaceManagerId": "",
+        "bellaManagerId": "m8",
+        "records": [
+            { "managerId": "m1", "teamName": "Return of the Mack", "wins": 7, "losses": 6, "ties": 0, "pointsFor": 1071.62, "pointsAgainst": 1077.94, "playoffApp": true },
+            { "managerId": "m2", "teamName": "Cobra Kyler", "wins": 7, "losses": 6, "ties": 0, "pointsFor": 1416.72, "pointsAgainst": 1356.32, "playoffApp": true },
+            { "managerId": "m3", "teamName": "Take Off Your Fantys", "wins": 7, "losses": 6, "ties": 0, "pointsFor": 1227.2, "pointsAgainst": 1256.84, "playoffApp": true },
+            { "managerId": "m4", "teamName": "Pereira For Union Rep", "wins": 10, "losses": 3, "ties": 0, "pointsFor": 1365.5, "pointsAgainst": 1281.34, "playoffApp": true },
+            { "managerId": "m5", "teamName": "Game of Jones", "wins": 5, "losses": 8, "ties": 0, "pointsFor": 1318.36, "pointsAgainst": 1276.84, "playoffApp": true },
+            { "managerId": "m6", "teamName": "Drake and the Younghoes's", "wins": 4, "losses": 9, "ties": 0, "pointsFor": 1207.72, "pointsAgainst": 1254.36, "playoffApp": false },
+            { "managerId": "m7", "teamName": "Fandy Bars", "wins": 8, "losses": 5, "ties": 0, "pointsFor": 1245.06, "pointsAgainst": 1257.74, "playoffApp": true },
+            { "managerId": "m8", "teamName": "Team McKinnon", "wins": 4, "losses": 9, "ties": 0, "pointsFor": 1196.32, "pointsAgainst": 1252.22, "playoffApp": false },
+            { "managerId": "m9", "teamName": "NOT MY FANDY", "wins": 6, "losses": 7, "ties": 0, "pointsFor": 1216.16, "pointsAgainst": 1293.52, "playoffApp": true },
+            { "managerId": "m10", "teamName": "Wallers Ballers", "wins": 7, "losses": 6, "ties": 0, "pointsFor": 1326.78, "pointsAgainst": 1284.32, "playoffApp": true }
+        ]
+      }, 
+      {
+        "year": 2020,
+        "notes": "",
+        "championManagerId": "m7",
+        "runnerUpManagerId": "",
+        "thirdplaceManagerId": "",
+        "bellaManagerId": "m5",
+        "records": [
+            { "managerId": "m1", "teamName": "McKissic My Szn Goodbye", "wins": 5, "losses": 8, "ties": 0, "pointsFor": 1184.58, "pointsAgainst": 1374.82, "playoffApp": true },
+            { "managerId": "m2", "teamName": "SWIFTIES", "wins": 9, "losses": 4, "ties": 0, "pointsFor": 1411.26, "pointsAgainst": 1267.36, "playoffApp": true },
+            { "managerId": "m3", "teamName": "Cito Gaskin 2.0", "wins": 6, "losses": 7, "ties": 0, "pointsFor": 1218.22, "pointsAgainst": 1253.3, "playoffApp": true },
+            { "managerId": "m4", "teamName": "SuperFlex Elie", "wins": 8, "losses": 5, "ties": 0, "pointsFor": 1165.14, "pointsAgainst": 1105.36, "playoffApp": true },
+            { "managerId": "m5", "teamName": "Broken !", "wins": 3, "losses": 10, "ties": 0, "pointsFor": 983.42, "pointsAgainst": 1272.32, "playoffApp": false },
+            { "managerId": "m6", "teamName": "Highway to Helaire", "wins": 4, "losses": 9, "ties": 0, "pointsFor": 1191.12, "pointsAgainst": 1271.36, "playoffApp": false },
+            { "managerId": "m7", "teamName": "TEAM BRADY", "wins": 7, "losses": 6, "ties": 0, "pointsFor": 1343.26, "pointsAgainst": 1299.24, "playoffApp": true },
+            { "managerId": "m8", "teamName": "Kyle McKinnon", "wins": 8, "losses": 5, "ties": 0, "pointsFor": 1432.58, "pointsAgainst": 1361.82, "playoffApp": true },
+            { "managerId": "m9", "teamName": "HAIL MURRAY", "wins": 9, "losses": 4, "ties": 0, "pointsFor": 1392.3, "pointsAgainst": 1171.22, "playoffApp": true },
+            { "managerId": "m10", "teamName": "Bella's Beauties", "wins": 6, "losses": 7, "ties": 0, "pointsFor": 1283.28, "pointsAgainst": 1228.36, "playoffApp": true }
+        ]
+      }, 
+      {
+        "year": 2021,
+        "notes": "",
+        "championManagerId": "m2",
+        "runnerUpManagerId": "m7",
+        "thirdplaceManagerId": "",
+        "bellaManagerId": "m9",
+        "records": [
+            { "managerId": "m1", "teamName": "Inglorious Staffords", "wins": 8, "losses": 6, "ties": 0, "pointsFor": 1605.38, "pointsAgainst": 1492.92, "playoffApp": true },
+            { "managerId": "m2", "teamName": "SWIFTIES Mach II", "wins": 7, "losses": 7, "ties": 0, "pointsFor": 1501.7, "pointsAgainst": 1540.4, "playoffApp": true },
+            { "managerId": "m3", "teamName": "Fournettecation Station", "wins": 9, "losses": 5, "ties": 0, "pointsFor": 1616.42, "pointsAgainst": 1516.68, "playoffApp": true },
+            { "managerId": "m4", "teamName": "Run CMC", "wins": 2, "losses": 12, "ties": 0, "pointsFor": 1282.88, "pointsAgainst": 1490.28, "playoffApp": false },
+            { "managerId": "m5", "teamName": "fluff sucks ****", "wins": 6, "losses": 8, "ties": 0, "pointsFor": 1371.3, "pointsAgainst": 1591.18, "playoffApp": true },
+            { "managerId": "m6", "teamName": "This name wins Me the week", "wins": 7, "losses": 7, "ties": 0, "pointsFor": 1431.96, "pointsAgainst": 1510.22, "playoffApp": true },
+            { "managerId": "m7", "teamName": "Show Us Ya Fantys", "wins": 9, "losses": 5, "ties": 0, "pointsFor": 1722.34, "pointsAgainst": 1546.6, "playoffApp": true },
+            { "managerId": "m8", "teamName": "RoundEye McKitty #88", "wins": 6, "losses": 7, "ties": 1, "pointsFor": 1528.66, "pointsAgainst": 1587.52, "playoffApp": true },
+            { "managerId": "m9", "teamName": "Hail Murray 2.0", "wins": 5, "losses": 8, "ties": 1, "pointsFor": 1637.48, "pointsAgainst": 1564.96, "playoffApp": false },
+            { "managerId": "m10", "teamName": "Bella's Beauties", "wins": 10, "losses": 4, "ties": 0, "pointsFor": 1562.36, "pointsAgainst": 1419.72, "playoffApp": true }
+        ]
+      },  
+      {
+        "year": 2022,
+        "notes": "",
+        "championManagerId": "m1",
+        "runnerUpManagerId": "m6",
+        "thirdplaceManagerId": "m8",
+        "bellaManagerId": "m3",
+        "records": [
+            { "managerId": "m1", "teamName": "Luca's Lombardi", "wins": 6, "losses": 8, "ties": 0, "pointsFor": 1390.3, "pointsAgainst": 1438.84, "playoffApp": true },
+            { "managerId": "m2", "teamName": "SKOLASSO", "wins": 10, "losses": 4, "ties": 0, "pointsFor": 1706.04, "pointsAgainst": 1398.14, "playoffApp": true },
+            { "managerId": "m3", "teamName": "Dude Looks Like a Brady", "wins": 4, "losses": 10, "ties": 0, "pointsFor": 1310.62, "pointsAgainst": 1578.24, "playoffApp": false },
+            { "managerId": "m4", "teamName": "Show Me The Mooney", "wins": 7, "losses": 7, "ties": 0, "pointsFor": 1574.12, "pointsAgainst": 1519.08, "playoffApp": true },
+            { "managerId": "m5", "teamName": "Sleeper team on sleeper", "wins": 6, "losses": 8, "ties": 0, "pointsFor": 1558.36, "pointsAgainst": 1654.4, "playoffApp": true },
+            { "managerId": "m6", "teamName": "J.J. Jingleheimer Schmidt", "wins": 8, "losses": 6, "ties": 0, "pointsFor": 1509.84, "pointsAgainst": 1489.64, "playoffApp": true },
+            { "managerId": "m7", "teamName": "Hotel Bob Tubman", "wins": 5, "losses": 9, "ties": 0, "pointsFor": 1413.52, "pointsAgainst": 1630.64, "playoffApp": false },
+            { "managerId": "m8", "teamName": "Team kmacattack87", "wins": 7, "losses": 7, "ties": 0, "pointsFor": 1622.64, "pointsAgainst": 1651.18, "playoffApp": true },
+            { "managerId": "m9", "teamName": "Let's HIIIIIIDE", "wins": 7, "losses": 7, "ties": 0, "pointsFor": 1433.52, "pointsAgainst": 1449.86, "playoffApp": true },
+            { "managerId": "m10", "teamName": "Bella's Beauties", "wins": 10, "losses": 4, "ties": 0, "pointsFor": 1717.28, "pointsAgainst": 1426.22, "playoffApp": true }
+        ]
+      },  
+      {
+        "year": 2023,
+        "notes": "",
+        "championManagerId": "m3",
+        "runnerUpManagerId": "m6",
+        "thirdplaceManagerId": "m4",
+        "bellaManagerId": "m5",
+        "records": [
+          { "managerId": "m2", "teamName": "Bella: IDTS", "wins": 6,  "losses": 8, "ties": 0, "pointsFor": 1462.78, "pointsAgainst": 1547.54, "playoffApp": true },
+          { "managerId": "m3", "teamName": "Herbert & Ernie", "wins": 6, "losses": 8, "ties": 0, "pointsFor": 1501.18, "pointsAgainst": 1523.04, "playoffApp": true },
+          { "managerId": "m4", "teamName": "CeeDee Had A Little Lamb", "wins": 8,  "losses": 6, "ties": 0, "pointsFor": 1598.02, "pointsAgainst": 1689.2, "playoffApp": true },
+          { "managerId": "m5", "teamName": "Sleeper team on sleeper", "wins": 5,  "losses": 9, "ties": 0, "pointsFor": 1406.44, "pointsAgainst": 1514.42, "playoffApp": false },
+          { "managerId": "m6", "teamName": "Back to Back finalist", "wins": 8,  "losses": 6, "ties": 0, "pointsFor": 1641.12, "pointsAgainst": 1529.52, "playoffApp": true },
+          { "managerId": "m7", "teamName": "Uncle Bush Bush", "wins": 5,  "losses": 9, "ties": 0, "pointsFor": 1537.54, "pointsAgainst": 1552.94, "playoffApp": false },
+          { "managerId": "m8", "teamName": "Team kmacattack87", "wins": 9,  "losses": 5, "ties": 0, "pointsFor": 1660.32, "pointsAgainst": 1589.9, "playoffApp": true },
+          { "managerId": "m9", "teamName": "Rowdy Stroudy Piper", "wins": 6,  "losses": 8, "ties": 0, "pointsFor": 1550.5, "pointsAgainst": 1554.78, "playoffApp": true },
+          { "managerId": "m10", "teamName": "Bed, Bath & Bijan", "wins": 9,  "losses": 5, "ties": 0, "pointsFor": 1441.66, "pointsAgainst": 1463.7, "playoffApp": true },
+          { "managerId": "m11", "teamName": "I'm not Theon, I'm tyREEK", "wins": 8,  "losses": 6, "ties": 0, "pointsFor": 1626.36, "pointsAgainst": 1460.88, "playoffApp": true }
+        ]
+      },
+      {
+        "year": 2024,
+        "notes": "",
+        "championManagerId": "m7",
+        "runnerUpManagerId": "m4",
+        "thirdplaceManagerId": "m3",
+        "bellaManagerId": "m5",
+        "records": [
+            { "managerId": "m2", "teamName": "The Last Fanta", "wins": 4, "losses": 10, "ties": 0, "pointsFor": 1478.16, "pointsAgainst": 1624.76, "playoffApp": false },
+            { "managerId": "m3", "teamName": "McConkey Tonk Man", "wins": 7, "losses": 7, "ties": 0, "pointsFor": 1669.08, "pointsAgainst": 1559.20, "playoffApp": true },
+            { "managerId": "m4", "teamName": "Nacua Matata", "wins": 6, "losses": 8, "ties": 0, "pointsFor": 1534.02, "pointsAgainst": 1539.08, "playoffApp": true },
+            { "managerId": "m5", "teamName": "Sleeper team on sleeper", "wins": 4, "losses": 10, "ties": 0, "pointsFor": 1368.12, "pointsAgainst": 1567, "playoffApp": false },
+            { "managerId": "m6", "teamName": "Je Ne Saquon", "wins": 10, "losses": 4, "ties": 0, "pointsFor": 1829.16, "pointsAgainst": 1588.20, "playoffApp": true },
+            { "managerId": "m7", "teamName": "#FireMikeEggHead", "wins": 6, "losses": 8, "ties": 0, "pointsFor": 1496.06, "pointsAgainst": 1632.34, "playoffApp": true },
+            { "managerId": "m8", "teamName": "Team kmacattack87", "wins": 7, "losses": 7, "ties": 0, "pointsFor": 1600.66, "pointsAgainst": 1531.88, "playoffApp": true },
+            { "managerId": "m9", "teamName": "Nico Suave", "wins": 10, "losses": 4, "ties": 0, "pointsFor": 1601.58, "pointsAgainst": 1493.62, "playoffApp": true },
+            { "managerId": "m10", "teamName": "Golden Bowers", "wins": 9, "losses": 5, "ties": 0, "pointsFor": 1646.66, "pointsAgainst": 1643.18, "playoffApp": true },
+            { "managerId": "m11", "teamName": "Portuguese Pacheco", "wins": 7, "losses": 7, "ties": 0, "pointsFor": 1492.08, "pointsAgainst": 1536.32, "playoffApp": true}
+        ]
+      }
+    ]
+  }  
